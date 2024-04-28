@@ -15,7 +15,8 @@
 			"extensions": [
 				"ms-python.python",
 				"njpwerner.autodocstring",
-				"Posit.shiny-python"
+				"Posit.shiny-python",
+				"charliermarsh.ruff"
 			]
 		}
 	},
